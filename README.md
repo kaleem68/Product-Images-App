@@ -9,4 +9,4 @@ mvn spring-boot:run <br/> http://localhost:8080/
 
 # Note
 The app uses an in-memory database h2 any changes made in the app are lost after restarting the app. <br/> 
-If you have any difficulty running the app please create the issue or reach out to me at nixamani5@gmail.com
+If you have any difficulty running the app please create the issue or reach out to me at nixamani5@gmail.com.
