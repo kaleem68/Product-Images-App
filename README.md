@@ -4,7 +4,7 @@ The primary focus of the app is to have flexible search functionality based on t
 
 # Requirements
 Java 11
-Mvn build tool
+Maven build tool
 # Running the app
 mvn spring-boot:run
 # Note
